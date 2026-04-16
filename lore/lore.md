@@ -4,6 +4,10 @@
 2. Rasy i postacie
     1.1 Smoki
     1.2 Ludzie
+           1.2.1 Sela
+           1.2.2 Nira
+           1.2.3 Jagienka
+           1.2.4 Mirogniew
     
 
 
